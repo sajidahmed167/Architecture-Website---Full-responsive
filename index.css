@@ -1,0 +1,46 @@
+.img1{
+    max-width:1300px;
+    width: 100%;
+}
+
+.contact1{
+    background-color: #CCCCCC;
+    font-size: 16px;
+}
+
+
+.para{
+    font-size: 16px;
+}
+
+.img2{
+
+    filter: grayscale(70%);
+}
+
+.zindex{
+    z-index: 100;
+}
+.footer{
+    background-color: black;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    font-size: 20px;
+    color: white;
+}
+
+.font1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.bmove{
+    top: 50%;
+    left: 40%;
+}
+
+.containermargin{
+    margin: 10%;
+}
