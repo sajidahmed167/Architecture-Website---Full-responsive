@@ -1,2 +1,2 @@
 # Architecture-Website---Full-responsive
-An architecture website made full responsive with bootstrap5.
+Recreating the entire architecture website template from w3school from scratch with only bootstrap and personalizing it
